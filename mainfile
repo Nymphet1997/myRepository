@@ -5,7 +5,6 @@
 
 int main(int argc, char *argv[])
 {
-
 	// Reserve 5 byte of buffer plus the terminating NULL.
 	// should allocate 8 bytes = 2 double words,
 	// To overflow, need more than 8 bytes...
